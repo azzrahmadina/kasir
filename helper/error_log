@@ -1,0 +1,170 @@
+[10-Mar-2022 16:55:27 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 129
+[10-Mar-2022 16:55:27 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 129
+[10-Mar-2022 16:55:27 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 131
+[10-Mar-2022 16:55:27 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 133
+[10-Mar-2022 16:55:27 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[10-Mar-2022 16:55:27 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[10-Mar-2022 16:55:27 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[10-Mar-2022 16:55:27 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[10-Mar-2022 16:55:27 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[10-Mar-2022 16:55:27 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[10-Mar-2022 16:55:27 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[10-Mar-2022 16:55:27 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[10-Mar-2022 16:55:27 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[10-Mar-2022 16:55:28 Asia/Jakarta] PHP Notice:  Undefined index: draw in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 253
+[12-Mar-2022 16:17:47 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 129
+[12-Mar-2022 16:17:47 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 129
+[12-Mar-2022 16:17:47 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 131
+[12-Mar-2022 16:17:47 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 133
+[12-Mar-2022 16:17:47 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[12-Mar-2022 16:17:47 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[12-Mar-2022 16:17:47 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[12-Mar-2022 16:17:47 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[12-Mar-2022 16:17:47 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[12-Mar-2022 16:17:47 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[12-Mar-2022 16:17:47 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[12-Mar-2022 16:17:47 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[12-Mar-2022 16:17:47 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[12-Mar-2022 16:17:47 Asia/Jakarta] PHP Notice:  Undefined index: draw in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 253
+[28-Apr-2022 22:09:16 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/sangxanx/atmajayagroup.com/kasir/setting.php:13
+Stack trace:
+#0 /home/sangxanx/atmajayagroup.com/kasir/setting.php(13): PDO->__construct('mysql:host=loca...', 'sangxanx_ahmadi...', 'gaktau89')
+#1 /home/sangxanx/atmajayagroup.com/kasir/helper/data.php(2): include('/home/sangxanx/...')
+#2 {main}
+  thrown in /home/sangxanx/atmajayagroup.com/kasir/setting.php on line 13
+[28-Apr-2022 22:22:31 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sangxanx/atmajayagroup.com/kasir/setting.php:13
+Stack trace:
+#0 /home/sangxanx/atmajayagroup.com/kasir/setting.php(13): PDO->__construct('mysql:host=loca...', 'sangxanx_ahmadi...', 'gaktau89')
+#1 /home/sangxanx/atmajayagroup.com/kasir/helper/data.php(2): include('/home/sangxanx/...')
+#2 {main}
+  thrown in /home/sangxanx/atmajayagroup.com/kasir/setting.php on line 13
+[28-Apr-2022 22:22:36 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sangxanx/atmajayagroup.com/kasir/setting.php:13
+Stack trace:
+#0 /home/sangxanx/atmajayagroup.com/kasir/setting.php(13): PDO->__construct('mysql:host=loca...', 'sangxanx_ahmadi...', 'gaktau89')
+#1 /home/sangxanx/atmajayagroup.com/kasir/helper/data.php(2): include('/home/sangxanx/...')
+#2 {main}
+  thrown in /home/sangxanx/atmajayagroup.com/kasir/setting.php on line 13
+[28-Apr-2022 22:22:39 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sangxanx/atmajayagroup.com/kasir/setting.php:13
+Stack trace:
+#0 /home/sangxanx/atmajayagroup.com/kasir/setting.php(13): PDO->__construct('mysql:host=loca...', 'sangxanx_ahmadi...', 'gaktau89')
+#1 /home/sangxanx/atmajayagroup.com/kasir/helper/data.php(2): include('/home/sangxanx/...')
+#2 {main}
+  thrown in /home/sangxanx/atmajayagroup.com/kasir/setting.php on line 13
+[05-Oct-2022 12:46:32 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 129
+[05-Oct-2022 12:46:32 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 129
+[05-Oct-2022 12:46:32 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 131
+[05-Oct-2022 12:46:32 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 133
+[05-Oct-2022 12:46:32 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[05-Oct-2022 12:46:32 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[05-Oct-2022 12:46:32 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[05-Oct-2022 12:46:32 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[05-Oct-2022 12:46:32 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[05-Oct-2022 12:46:32 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[05-Oct-2022 12:46:32 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[05-Oct-2022 12:46:32 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[05-Oct-2022 12:46:32 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[05-Oct-2022 12:46:32 Asia/Jakarta] PHP Notice:  Undefined index: draw in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 253
+[08-Oct-2022 09:20:41 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 129
+[08-Oct-2022 09:20:41 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 129
+[08-Oct-2022 09:20:41 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 131
+[08-Oct-2022 09:20:41 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 133
+[08-Oct-2022 09:20:41 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[08-Oct-2022 09:20:41 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[08-Oct-2022 09:20:41 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[08-Oct-2022 09:20:41 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[08-Oct-2022 09:20:41 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[08-Oct-2022 09:20:41 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[08-Oct-2022 09:20:41 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[08-Oct-2022 09:20:41 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[08-Oct-2022 09:20:41 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[08-Oct-2022 09:20:41 Asia/Jakarta] PHP Notice:  Undefined index: draw in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 253
+[13-Oct-2022 04:35:51 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 129
+[13-Oct-2022 04:35:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 129
+[13-Oct-2022 04:35:51 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 131
+[13-Oct-2022 04:35:51 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 133
+[13-Oct-2022 04:35:51 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[13-Oct-2022 04:35:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[13-Oct-2022 04:35:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[13-Oct-2022 04:35:51 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[13-Oct-2022 04:35:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[13-Oct-2022 04:35:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[13-Oct-2022 04:35:51 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[13-Oct-2022 04:35:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[13-Oct-2022 04:35:51 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[13-Oct-2022 04:35:51 Asia/Jakarta] PHP Notice:  Undefined index: draw in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 253
+[14-Nov-2022 09:15:52 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 129
+[14-Nov-2022 09:15:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 129
+[14-Nov-2022 09:15:52 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 131
+[14-Nov-2022 09:15:52 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 133
+[14-Nov-2022 09:15:52 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[14-Nov-2022 09:15:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[14-Nov-2022 09:15:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[14-Nov-2022 09:15:52 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[14-Nov-2022 09:15:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[14-Nov-2022 09:15:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[14-Nov-2022 09:15:52 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[14-Nov-2022 09:15:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[14-Nov-2022 09:15:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[14-Nov-2022 09:15:52 Asia/Jakarta] PHP Notice:  Undefined index: draw in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 253
+[21-Nov-2022 11:30:05 Asia/Jakarta] PHP Notice:  Undefined index: search in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 129
+[21-Nov-2022 11:30:05 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 129
+[21-Nov-2022 11:30:05 Asia/Jakarta] PHP Notice:  Undefined index: length in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 131
+[21-Nov-2022 11:30:05 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 133
+[21-Nov-2022 11:30:05 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[21-Nov-2022 11:30:05 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[21-Nov-2022 11:30:05 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 212
+[21-Nov-2022 11:30:05 Asia/Jakarta] PHP Notice:  Undefined index: order in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[21-Nov-2022 11:30:05 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[21-Nov-2022 11:30:05 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 215
+[21-Nov-2022 11:30:05 Asia/Jakarta] PHP Notice:  Undefined index: columns in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[21-Nov-2022 11:30:05 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[21-Nov-2022 11:30:05 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 216
+[21-Nov-2022 11:30:05 Asia/Jakarta] PHP Notice:  Undefined index: draw in /home/sangxanx/atmajayagroup.com/kasir/helper.php on line 253
+[09-Feb-2024 19:14:51 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' 
+                        ORDER BY barang.nama_barang ASC' at line 5 in /home/sangxanx/ceksob.com/kasir/helper/cari.php:41
+Stack trace:
+#0 /home/sangxanx/ceksob.com/kasir/helper/cari.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sangxanx/ceksob.com/kasir/helper/cari.php on line 41
+[04-Apr-2024 10:34:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sangxanx/ceksob.com/kasir/setting.php:13
+Stack trace:
+#0 /home/sangxanx/ceksob.com/kasir/setting.php(13): PDO->__construct()
+#1 /home/sangxanx/ceksob.com/kasir/helper/data.php(2): include('/home/sangxanx/...')
+#2 {main}
+  thrown in /home/sangxanx/ceksob.com/kasir/setting.php on line 13
+[07-Apr-2024 11:16:53 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' 
+                        ORDER BY barang.nama_barang ASC' at line 5 in /home/sangxanx/ceksob.com/kasir/helper/cari.php:41
+Stack trace:
+#0 /home/sangxanx/ceksob.com/kasir/helper/cari.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sangxanx/ceksob.com/kasir/helper/cari.php on line 41
+[08-Apr-2024 14:55:39 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' 
+                        ORDER BY barang.nama_barang ASC' at line 5 in /home/sangxanx/ceksob.com/kasir/helper/cari.php:41
+Stack trace:
+#0 /home/sangxanx/ceksob.com/kasir/helper/cari.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sangxanx/ceksob.com/kasir/helper/cari.php on line 41
+[09-Apr-2024 21:36:50 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' 
+                        ORDER BY barang.nama_barang ASC' at line 5 in /home/sangxanx/ceksob.com/kasir/helper/cari.php:41
+Stack trace:
+#0 /home/sangxanx/ceksob.com/kasir/helper/cari.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sangxanx/ceksob.com/kasir/helper/cari.php on line 41
+[04-May-2024 17:38:06 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CA'%' 
+                        ORDER BY barang.nama_barang ASC' at line 5 in /home/sangxanx/ceksob.com/kasir/helper/cari.php:41
+Stack trace:
+#0 /home/sangxanx/ceksob.com/kasir/helper/cari.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sangxanx/ceksob.com/kasir/helper/cari.php on line 41
+[11-May-2024 15:34:53 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' 
+                        ORDER BY barang.nama_barang ASC' at line 5 in /home/sangxanx/ceksob.com/kasir/helper/cari.php:41
+Stack trace:
+#0 /home/sangxanx/ceksob.com/kasir/helper/cari.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sangxanx/ceksob.com/kasir/helper/cari.php on line 41
+[15-May-2024 14:59:16 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''%' 
+                        ORDER BY barang.nama_barang ASC' at line 5 in /home/sangxanx/ceksob.com/kasir/helper/cari.php:41
+Stack trace:
+#0 /home/sangxanx/ceksob.com/kasir/helper/cari.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sangxanx/ceksob.com/kasir/helper/cari.php on line 41
