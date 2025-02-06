@@ -83,7 +83,7 @@
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="<?= $baseURL; ?>laporan/produk" class="nav-link">
+                                    <a href="<?= $baseURL; ?>laporan_produk" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Penjualan Barang</p>
                                     </a>
@@ -96,7 +96,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="<?= $baseURL; ?>laporan_beli/produk.php" class="nav-link">
+                                <a href="<?= $baseURL; ?>pembelian_produk" class="nav-link">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>Pembelian Barang</p>
                                 </a>
