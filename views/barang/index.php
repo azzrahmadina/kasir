@@ -19,7 +19,7 @@
         }
         ?>
         <div class="btn-group" role="group" aria-label="Basic example">
-            <a href="barang/tambah.php" class="btn btn-primary btn-md" role="button">
+            <a href="<?= $baseURL; ?>barang/tambah.php" class="btn btn-primary btn-md" role="button">
                 <i class="fa fa-plus mr-1"></i>Add Barang</a>
             <a href="import.php" class="btn btn-info btn-md" role="button">
                 <i class="fa fa-plus mr-1"></i>Import Barang (Excel)</a>
